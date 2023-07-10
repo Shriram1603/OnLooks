@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230752168176",
+    "project_id": "onlooks",
+    "storage_bucket": "onlooks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230752168176:android:f7d9b028cee1c5d4ebba35",
+        "android_client_info": {
+          "package_name": "com.onlooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230752168176-2ls3eusf7rd8ghc9o8np9ob7an4q336u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlooks",
+            "certificate_hash": "28f02c167bede7c7077352a08fd638f5c8d6fa3c"
+          }
+        },
+        {
+          "client_id": "230752168176-fjc6pvrvdorc57ibe7tu8j21apmb7nsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUs-TvvSLIPOzAI4bjTMiGhZXbYDvpLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230752168176-fjc6pvrvdorc57ibe7tu8j21apmb7nsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
